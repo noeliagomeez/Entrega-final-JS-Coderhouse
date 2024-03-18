@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "1989 (Taylor's Version)",
+        "precio": 23,
+        "img": "https://umusicstore.com.ar/cdn/shop/files/CD1_JewelandPoster_800x.png?v=1691768476",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Speak Now (Taylor's Version)",
+        "precio": 16,
+        "img": "https://media.discordapp.net/attachments/1128922301518323723/1213218707346690109/Speak_Now_480x.png?ex=660721f8&is=65f4acf8&hm=ec3ca51ebf206c1c273ef92cfa3de5885bca46e3c2bfa9d83c7f952a7f7f3de6&=&format=webp&quality=lossless&width=676&height=676",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Midnights (Taylor's Version)",
+        "precio": 16,
+        "img": "https://umusicstore.com.ar/cdn/shop/products/CD5_IntlVersion_800x.png?v=1675780857",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Red (Taylor's Version)",
+        "precio": 16,
+        "img": "https://umusicstore.com.ar/cdn/shop/products/Red__Taylor_s_Version__-_Portada_800x.jpg?v=1639439457",
+        "cantidad": 1
+    }
+  ]
